@@ -15,4 +15,3 @@ This project converts a given number of seconds into hours, minutes, and seconds
 3. Calculate remaining minutes using modulus.
 4. Remaining seconds are printed directly.
 
-## Sample Input
